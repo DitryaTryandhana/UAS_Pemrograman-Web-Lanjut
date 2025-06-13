@@ -29,7 +29,7 @@ _📁 Screenshot Demo Starter-Kit_
 ### 🔐 Halaman Login
 Menampilkan form login untuk masuk sebagai wartawan, editor, atau admin.
 
-![Login](screenshots/login.png)
+![Login](https://github.com/DitryaTryandhana/UAS_Pemrograman-Web-Lanjut/blob/main/Screenshot%20Demo%20Starter-Kit/login.png)
 
 ### 📊️  Dashboard Admin
 Admin dapat melihat statistik berita serta kategori dan melihat daftar berita.
