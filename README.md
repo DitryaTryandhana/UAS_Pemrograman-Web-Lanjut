@@ -1,1 +1,57 @@
-# UAS_Pemrograman-Web-Lanjut
+# UAS PEMROGRAMAN WEB LANJUT
+Nama: Ditrya Tryandhana
+NIM: 23091397138
+Kelas: 2023-D
+---
+---
+## Membuat aplikasi _Starter Kit_
+
+##### 📌 Deskripsi Aplikasi
+
+Aplikasi ini merupakan Starter Kit berbasis Laravel yang digunakan untuk mengelola berita. Terdapat fitur manajemen pengguna (wartawan, editor, admin), CRUD berita, verifikasi berita, serta autentikasi dan role-based access control.
+
+##### 💻 Fitur Utama
+- Login & Register
+- Role pengguna: Wartawan, Editor, Admin
+- CRUD Berita
+- Verifikasi Berita oleh Editor
+- Dashboard Dinamis
+- Upload Gambar Berita
+
+---
+---
+
+## 🖼 Cuplikan Tangkapan Layar Demo Aplikasi
+
+Tangkapan Layar Demo Aplikasi lebih lengkapnya ada di folder:
+_📁 Screenshot Demo Starter-Kit_
+
+### 🔐 Halaman Login
+Menampilkan form login untuk masuk sebagai wartawan, editor, atau admin.
+
+![Login](screenshots/login.png)
+
+### 📊️  Dashboard Admin
+Admin dapat melihat statistik berita serta kategori dan melihat daftar berita.
+
+![Dashboard Admin](screenshots/login.png)
+
+### ✒️️ Dashboard Editor
+Editor dapat memverifikasi berita yang diajukan oleh wartawan.
+
+![Dashboard Editor](screenshots/dashboard_editor.png)
+
+### 👨‍💻 Dashboard Wartawan
+Wartawan dapat melihat total berita, menambahkan, mengedit, atau menghapus berita.
+
+![Dashboard Wartawan](screenshots/dashboard_wartawan.png)
+
+### 📰 Daftar Berita
+Menampilkan semua berita yang telah dibuat dan status publikasinya.
+
+![Daftar Berita](screenshots/berita_list.png)
+
+### 👤 Halaman Profil Pengguna
+Menampilkan informasi akun pengguna yang sedang login.
+
+![Profil Pengguna](screenshots/profile.png)
