@@ -54,4 +54,4 @@ Menampilkan semua berita yang telah dibuat dan status publikasinya.
 ### 👤 Halaman Profil Pengguna
 Menampilkan informasi akun pengguna yang sedang login.
 
-![Profil Pengguna](https://github.com/DitryaTryandhana/UAS_Pemrograman-Web-Lanjut/blob/main/Screenshot%20Demo%20Starter-Kit/admin/profile-admin.png)
+![Profil Pengguna](https://github.com/DitryaTryandhana/starter-kit_UAS-Pem-Web/blob/main/Screenshot%20Demo%20Starter-Kit/admin/profile-admin.png)
