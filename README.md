@@ -6,11 +6,11 @@
 ---
 ## Membuat aplikasi _Starter Kit_
 
-##### 📌 Deskripsi Aplikasi
+### 📌 Deskripsi Aplikasi
 
 Aplikasi ini merupakan Starter Kit berbasis Laravel yang digunakan untuk mengelola berita. Terdapat fitur manajemen pengguna (wartawan, editor, admin), CRUD berita, verifikasi berita, serta autentikasi dan role-based access control.
 
-##### 💻 Fitur Utama
+### 💻 Fitur Utama
 - Login & Register
 - Role pengguna: Wartawan, Editor, Admin
 - CRUD Berita
