@@ -1,7 +1,7 @@
 # UAS PEMROGRAMAN WEB LANJUT
-Nama: Ditrya Tryandhana
-NIM: 23091397138
-Kelas: 2023-D
+- Nama: Ditrya Tryandhana
+- NIM: 23091397138
+- Kelas: 2023-D
 ---
 ---
 ## Membuat aplikasi _Starter Kit_
@@ -39,7 +39,7 @@ Admin dapat melihat statistik berita serta kategori dan melihat daftar berita.
 ### ✒️️ Dashboard Editor
 Editor dapat memverifikasi berita yang diajukan oleh wartawan.
 
-![Dashboard Editor](screenshots/https://github.com/DitryaTryandhana/UAS_Pemrograman-Web-Lanjut/blob/main/Screenshot%20Demo%20Starter-Kit/editor/dashboard-editor.png)
+![Dashboard Editor](https://github.com/DitryaTryandhana/UAS_Pemrograman-Web-Lanjut/blob/main/Screenshot%20Demo%20Starter-Kit/editor/dashboard-editor.png)
 
 ### 👨‍💻 Dashboard Wartawan
 Wartawan dapat melihat total berita, menambahkan, mengedit, atau menghapus berita.
