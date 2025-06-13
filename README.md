@@ -34,24 +34,24 @@ Menampilkan form login untuk masuk sebagai wartawan, editor, atau admin.
 ### 📊️  Dashboard Admin
 Admin dapat melihat statistik berita serta kategori dan melihat daftar berita.
 
-![Dashboard Admin](screenshots/login.png)
+![Dashboard Admin](https://github.com/DitryaTryandhana/UAS_Pemrograman-Web-Lanjut/blob/main/Screenshot%20Demo%20Starter-Kit/admin/dashboard1-admin.png)
 
 ### ✒️️ Dashboard Editor
 Editor dapat memverifikasi berita yang diajukan oleh wartawan.
 
-![Dashboard Editor](screenshots/dashboard_editor.png)
+![Dashboard Editor](screenshots/https://github.com/DitryaTryandhana/UAS_Pemrograman-Web-Lanjut/blob/main/Screenshot%20Demo%20Starter-Kit/editor/dashboard-editor.png)
 
 ### 👨‍💻 Dashboard Wartawan
 Wartawan dapat melihat total berita, menambahkan, mengedit, atau menghapus berita.
 
-![Dashboard Wartawan](screenshots/dashboard_wartawan.png)
+![Dashboard Wartawan](https://github.com/DitryaTryandhana/UAS_Pemrograman-Web-Lanjut/blob/main/Screenshot%20Demo%20Starter-Kit/wartawan/dashboard-wartawan.png)
 
 ### 📰 Daftar Berita
 Menampilkan semua berita yang telah dibuat dan status publikasinya.
 
-![Daftar Berita](screenshots/berita_list.png)
+![Daftar Berita](https://github.com/DitryaTryandhana/UAS_Pemrograman-Web-Lanjut/blob/main/Screenshot%20Demo%20Starter-Kit/wartawan/berita-wartawan.png)
 
 ### 👤 Halaman Profil Pengguna
 Menampilkan informasi akun pengguna yang sedang login.
 
-![Profil Pengguna](screenshots/profile.png)
+![Profil Pengguna](https://github.com/DitryaTryandhana/UAS_Pemrograman-Web-Lanjut/blob/main/Screenshot%20Demo%20Starter-Kit/admin/profile-admin.png)
